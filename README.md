@@ -1,2 +1,3 @@
-# EasyMatlabBot
-First Bot made with Matlab R2025b
+# EasyMatlabBot Interactive command line chatbot powered by OpneAI
+
+Starts
